@@ -3,5 +3,5 @@
 TEST(TestCaseName, TestName) 
 {
 	// the second compilation error is fixed by disabling pch
-	module2_namespace::C<int> c;
+	module3_namespace::C<int> c;
 }

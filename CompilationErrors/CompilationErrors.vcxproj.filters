@@ -21,5 +21,8 @@
     <ClCompile Include="module2.cppm">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="module3.cppm">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

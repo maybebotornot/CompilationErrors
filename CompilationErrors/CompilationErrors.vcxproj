@@ -133,6 +133,7 @@
   <ItemGroup>
     <ClCompile Include="module1.cppm" />
     <ClCompile Include="module2.cppm" />
+    <ClCompile Include="module3.cppm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

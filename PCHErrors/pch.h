@@ -3,5 +3,5 @@
 //
 
 #pragma once
-import module2;
+import module3;
 #include "gtest/gtest.h"
